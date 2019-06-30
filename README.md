@@ -4,4 +4,4 @@ This is a project that I did for my Summer 2019 linear algebra class. It is a si
 
 In order to run it for yourself, you will need NumPy and Matplotlib.
 
-For reference, I used the following website: https://www.tutorialspoint.com/computer_graphics/2d_transformation.htm.
+I used the following website for reference: https://www.tutorialspoint.com/computer_graphics/2d_transformation.htm.
