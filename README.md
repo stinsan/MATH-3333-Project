@@ -6,6 +6,6 @@ LinAlg.py just contains the linear algebra functions involved with the transform
 
 TransformApp.py contains the actual program where you can visually see the transformations.
 
-In order to run it for yourself, you will need NumPy and Matplotlib.
+In order to run it for yourself, you will need NumPy and Matplotlib. There is virtually no error checking when it comes to user input, so good luck.
 
 I used the following website for reference: https://www.tutorialspoint.com/computer_graphics/2d_transformation.htm.
